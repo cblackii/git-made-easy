@@ -1,0 +1,47 @@
+# Style.CSS example added via ChaptGpt
+/* Reset some default styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Header styles */
+header {
+  background: #4CAF50;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+/* Main content styles */
+main {
+  padding: 2rem;
+}
+
+main h2 {
+  color: #4CAF50;
+  margin-bottom: 1rem;
+}
+
+main p {
+  font-size: 1.1rem;
+}
+
+/* Footer styles */
+footer {
+  background: #222;
+  color: #ddd;
+  text-align: center;
+  padding: 1rem;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
