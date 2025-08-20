@@ -6,3 +6,6 @@ Git Basics
 More Advanced Topics
 Other Information
 
+This is my commit for my git log example
+
+
