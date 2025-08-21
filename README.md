@@ -6,6 +6,8 @@ Git Basics
 More Advanced Topics
 Other Information
 
-This is my commit for my git log example
+Making changes for our pull request 
+
+
 
 
